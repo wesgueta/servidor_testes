@@ -1,0 +1,1 @@
+{"equipe":123, "bateria":2395, "temperatura":30.50131, "pressao":92277.96, "giroscopio":[0.0085268, -0.003064319, 0.01825268], "acelerometro":[-0.1580173, 0.2154782, 10.00297], "payload": {"bateria":2400, "dados climatologicos":{"temperatura":30.51204, "pressao":92277.96}, "giroscopio":[0.01012558, -0.0006661563, 0.02025115], "acelerometro":[-0.1604115, 0.2322376, 9.986216]}}

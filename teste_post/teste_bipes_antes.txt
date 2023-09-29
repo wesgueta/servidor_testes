@@ -1,0 +1,1 @@
+equipe=41&bateria=24&temperatura=30&pressao=1&giroscopio=42&giroscopio=90&giroscopio=30&acelerometro=10&acelerometro=3&acelerometro=4&payload=valor1&payload=classe
